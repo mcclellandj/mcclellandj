@@ -1,5 +1,7 @@
 ### Hi there, my name is Jason.
 
-### I'm interested in using data science techniques across various industries to help find new knowledge or to improve business outcomes. 
-### Here you will find my work on selective projects of interest as I developed my skills in Data Science. Thanks for looking.   👋
+### I'm interested in using data science methods to solve problems in a variety of industries in order to advance knowledge or enhance business results.
+### Below you can find work on a few chosen projects that I found interesting as I honed my Data Science skills. 
+
+### Thanks for looking. 
 
