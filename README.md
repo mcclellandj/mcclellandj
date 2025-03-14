@@ -1,1 +1,1 @@
-#### Hello! I'm interested in using data science techniques for enhancing business performance and furthering scientific understanding. Below are some personal projects I have undertaken in recent years. Thanks for looking!
+#### Hello! I'm interested in using data science techniques to enhance business performance and further scientific understanding. Below are some personal projects that I have undertaken in recent years. Thanks for looking!
